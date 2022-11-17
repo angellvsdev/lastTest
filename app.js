@@ -5,4 +5,4 @@ class Pokemon {
     }
 }
 
-let charmander = new Pokemon("Charmander", ["Charmeleon", "Charizard"])
+let pikachu = new Pokemon("Pikachu", ["Raychuu"])
