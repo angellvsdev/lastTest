@@ -1,8 +1,9 @@
-class Pokemon {
-    constructor(mote, evolutions) {
+class Animal {
+    constructor(mote, age) {
         this.mote = mote
-        this.evolutions = evolutions
+        this.age = age
     }
 }
 
-let pikachu = new Pokemon("Pikachu", ["Raychuu"])
+let Yankee = new Animal("Yankee", 4)
+let Corina = new Animal("Corina", 5)
